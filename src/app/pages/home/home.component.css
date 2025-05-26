@@ -1,0 +1,13 @@
+.background {
+	position: relative;
+	height: 100%;
+	width: 100%;
+	background-image: url('/images/alaska.jpg');
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
