@@ -14,3 +14,8 @@ import {NavbarComponent} from './components/navbar/navbar.component';
 export class AppComponent {
   title = 'webdesign';
 }
+
+
+
+// ngx translate
+// "@ngx-translate/core": "^16.0.4",
