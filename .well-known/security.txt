@@ -1,0 +1,2 @@
+Contact: mailto:security@staniel.dev
+Expires: 2027-08-20
